@@ -12,7 +12,7 @@ public class MainFrame extends JFrame  {
             this.setSize(600,500);
             this.setTitle("Bank App");
 
-            bannerIcn = new ImageIcon();
+            bannerIcn = new ImageIcon("resources/bankBanner.png");
             bannerLbl = new JLabel(bannerIcn);
 
             this.add(bannerLbl);

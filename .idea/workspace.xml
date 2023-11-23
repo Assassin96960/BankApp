@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="949c6466-a9d9-4064-acd5-ed45260e188e" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/frame/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/frame/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/frame/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/frame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/frame/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frame/MainFrame.java" afterDir="false" />
-    </list>
+    <list default="true" id="949c6466-a9d9-4064-acd5-ed45260e188e" name="Changes" comment="MainFrame and Main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700232678594</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MainFrame and Main">
+      <created>1700745123716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700745123716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="MainFrame and Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="MainFrame and Main" />
   </component>
 </project>
